@@ -29,6 +29,7 @@ let ITENS_LOJA = [
         url_img: "./img/espada_medieval.png",
         descricao: "Utilizada em batalhar para neutralizar o inimigo ou como item de decoração"
     },
+    // .
     {
         nome: "Guitarra",
         preco: 1980.99,
